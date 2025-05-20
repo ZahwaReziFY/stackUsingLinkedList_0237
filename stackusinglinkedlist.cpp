@@ -12,3 +12,5 @@ class Node
         next = NULL;
     }
 };
+
+class Stack
