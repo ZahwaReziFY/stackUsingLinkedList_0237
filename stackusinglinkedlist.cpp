@@ -68,3 +68,11 @@ class Stack
         return top == NULL;
     }
 };
+
+int main()
+{
+
+    Stack stact;
+
+    
+}
